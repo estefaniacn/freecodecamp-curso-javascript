@@ -4,8 +4,6 @@ Curso Creado por: Estefania Cassingena Navone (@EstefaniaCassN).
 Tema: Encadenar sentencias if else.
 */
 
-var indiceDeMasaCorporal = 22.2;
-
 function interpretarIMC(indiceDeMasaCorporal) {
   if (indiceDeMasaCorporal < 18.5) {
     console.log("Bajo Peso");
