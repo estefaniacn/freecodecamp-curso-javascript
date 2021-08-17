@@ -14,12 +14,14 @@ function compararNumeros(a, b) {
   }
 }
 
+// Con el operador condicional (ternario).
+
 function compararNumeros(a, b) {
   return a === b ? "a y b son iguales"
        : a > b ? "a es mayor que b"
        : "b es mayor que a";
 }
 
-compararNumeros(11, 27);
-compararNumeros(27, 11);
-compararNumeros(15, 15);
+console.log(compararNumeros(11, 27));
+console.log(compararNumeros(27, 11));
+console.log(compararNumeros(15, 15));
