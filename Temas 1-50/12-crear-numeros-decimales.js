@@ -4,6 +4,6 @@ Curso Creado por: Estefania Cassingena Navone (@EstefaniaCassN).
 Tema: Crear números decimales con JavaScript.
 */
 
-var miNúmeroDecimal = 23.4;
+var miNumeroDecimal = 23.4;
 
 var peso = 78.34;
