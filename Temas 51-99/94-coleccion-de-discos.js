@@ -20,11 +20,6 @@ var coleccionDeDiscos = {
     artista: "Bee Gees",
     canciones: ["Stayin' Alive"]
   },
-  1275: {
-    tituloDelAlbum: "V",
-    artista: "Maroon 5",
-    canciones: ["Maps", "Sugar"]
-  },
   5439: {
     tituloDelAlbum: "ABBA Gold"
   }
@@ -68,7 +63,7 @@ function actualizarDiscos(discos, id, propiedad, valor) {
 }
 
 console.log(coleccionDeDiscos);
-actualizarDiscos(coleccionDeDiscos, 1275, "tituloDelAlbum", "");
+actualizarDiscos(coleccionDeDiscos, 7853, "tituloDelAlbum", "");
 console.log(coleccionDeDiscos);
 
 actualizarDiscos(coleccionDeDiscos, 5439, "canciones", "Mamma Mia");
