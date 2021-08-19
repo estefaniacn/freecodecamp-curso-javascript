@@ -28,6 +28,7 @@ function buscarElementoQuimico(simbolo) {
       break;
     case "Li":
       elementoQuimico = "Litio";
+      break;
   }
   return elementoQuimico;
 }
