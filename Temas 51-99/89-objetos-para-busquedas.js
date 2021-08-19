@@ -10,7 +10,7 @@ Tema: Objetos para hacer búsquedas.
 function buscarElementoQuimico(simbolo) {
   var elementoQuimico = "";
 
-  switch(simbolo) {
+  switch (simbolo) {
     case "Al":
       elementoQuimico = "Aluminio";
       break;
