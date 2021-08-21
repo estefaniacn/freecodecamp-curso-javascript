@@ -45,6 +45,14 @@ Para escribir tu código, puedes descargar un editor de código (por ejemplo, Vi
 
 Durante el curso, usaremos el editor de código de freeCodeCamp, así que no es estrictamente necesario que descargues estas herramientas. Pero si deseas guardar tu código, deberás crear nuevos archivos index.html con <script> y </script> para escribir y guardar tu código.
 
-## 🔸 Enlace al Curso
+## 🔸 Descargar el Código
+Puedes descargar el código de cada parte del curso. El repositorio está divido en estas tres carpetas:
+- [Temas 1-50](https://github.com/estefaniacn/freecodecamp-curso-javascript/tree/main/Temas%201-50)
+- [Temas 51-99](https://github.com/estefaniacn/freecodecamp-curso-javascript/tree/main/Temas%2051-99)
+- [Temas 100-129](https://github.com/estefaniacn/freecodecamp-curso-javascript/tree/main/Temas%20100-129)
+
+También puedes encontrar un archivo específico haciendo clic en el botón "Go to file" y escribiendo el nombre del tema que deseas encontrar.
+
+## 🔹 Enlace al Curso
 Si deseas ver el curso en nuestro canal de YouTube, haz clic en este enlace: "[Aprende JavaScript - Curso Completo desde Cero](https://www.youtube.com/watch?v=ivdTnPl1ND0)"
 
